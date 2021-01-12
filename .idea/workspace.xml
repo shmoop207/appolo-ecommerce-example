@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4bcbec47-1861-4f78-845e-f48221bf718e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mmYXk05p9TgBmGJ4qFWyk90QYH" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/modules/index/controllers" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.typescriptcompiler" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/modules/index/controllers" />
+      <recent name="$PROJECT_DIR$/src/modules/orders/controllers" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/modules/product/controllers/models" />
+      <recent name="$PROJECT_DIR$/src/modules/product" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/modules/product/controllers" />
+      <recent name="$PROJECT_DIR$/src/modules/product" />
+      <recent name="$PROJECT_DIR$/src/modules/users/controllers/models" />
+      <recent name="$PROJECT_DIR$/src/modules/orders/controllers" />
+      <recent name="$PROJECT_DIR$/src/modules/users/middleware2" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="NodeJSConfigurationType" path-to-node="$USER_HOME$/.nvm/versions/node/v14.9.0/bin/node" path-to-js-file="app.js" working-dir="$PROJECT_DIR$">
+      <envs>
+        <env name="MONGO_URI" value="mongodb+srv://testUser:wp0ICCop9WQPeSqm@cluster0.yxpij.mongodb.net/ecommerce?retryWrites=true&amp;w=majority" />
+      </envs>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4bcbec47-1861-4f78-845e-f48221bf718e" name="Default Changelist" comment="" />
+      <created>1610100277249</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610100277249</updated>
+      <workItem from="1610100278846" duration="20805000" />
+      <workItem from="1610364626372" duration="5864000" />
+      <workItem from="1610393617957" duration="28000" />
+      <workItem from="1610393666822" duration="4695000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/config/env/all.js" />
+        <option value="$PROJECT_DIR$/config/env/IEnv.js" />
+        <option value="$PROJECT_DIR$/config/env/all.js.map" />
+        <option value="$PROJECT_DIR$/config/env/IEnv.js.map" />
+        <option value="$PROJECT_DIR$/config/env/production.js" />
+        <option value="$PROJECT_DIR$/config/env/production.js.map" />
+        <option value="$PROJECT_DIR$/config/modules/all.js" />
+        <option value="$PROJECT_DIR$/config/modules/all.js.map" />
+        <option value="$PROJECT_DIR$/config/middlewares/all.js" />
+        <option value="$PROJECT_DIR$/config/middlewares/all.js.map" />
+        <option value="$PROJECT_DIR$/app.js.map" />
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/src/modules/users/managers/usersManager.js.map" />
+        <option value="$PROJECT_DIR$/src/modules/users/managers/usersManager.js" />
+        <option value="$PROJECT_DIR$/src/modules/users/controllers/userController.js" />
+        <option value="$PROJECT_DIR$/src/modules/users/controllers/userController.js.map" />
+        <option value="$PROJECT_DIR$/src/modules/users/middlewares/adminMiddleware.js" />
+        <option value="$PROJECT_DIR$/src/modules/users/middlewares/adminMiddleware.js.map" />
+        <option value="$PROJECT_DIR$/src/modules/users/managers/jwtService.js.map" />
+        <option value="$PROJECT_DIR$/src/modules/users/managers/jwtService.js" />
+        <option value="$PROJECT_DIR$/src/modules/users/controllers/authController.js" />
+        <option value="$PROJECT_DIR$/src/modules/users/controllers/authController.js.map" />
+        <option value="$PROJECT_DIR$/src/modules/users/controllers/profileController.js" />
+        <option value="$PROJECT_DIR$/src/modules/users/controllers/profileController.js.map" />
+        <option value="$PROJECT_DIR$/src/modules/orders/managers/ordersManager.js" />
+        <option value="$PROJECT_DIR$/src/modules/orders/managers/ordersManager.js.map" />
+        <option value="$PROJECT_DIR$/src/modules/orders/controllers/orderController.js.map" />
+        <option value="$PROJECT_DIR$/src/modules/orders/controllers/orderController.js" />
+        <option value="$PROJECT_DIR$/src/modules/orders/controllers/models/orderRouteModel.js" />
+        <option value="$PROJECT_DIR$/src/modules/orders/controllers/models/orderRouteModel.js.map" />
+        <option value="$PROJECT_DIR$/src/modules/product/controllers/productController.js.map" />
+        <option value="$PROJECT_DIR$/src/modules/product/controllers/productController.js" />
+        <option value="$PROJECT_DIR$/src/modules/product/controllers/models/productRouteModel.js" />
+        <option value="$PROJECT_DIR$/src/modules/product/controllers/models/productRouteModel.js.map" />
+        <option value="$PROJECT_DIR$/src/modules/orders/controllers/paypalController.js.map" />
+        <option value="$PROJECT_DIR$/src/modules/orders/controllers/paypalController.js" />
+        <option value="$PROJECT_DIR$/src/modules/index/controllers/indexController.js" />
+        <option value="$PROJECT_DIR$/src/modules/index/controllers/indexController.js.map" />
+      </list>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

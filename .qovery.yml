@@ -1,0 +1,11 @@
+---
+application:
+  name: "appolo-ecommerce-example"
+  project: "aa"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-appolo-ecommerce-example"
+  routes:
+  - application_name: "appolo-ecommerce-example"
+    paths:
+    - "/*"
